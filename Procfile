@@ -1,0 +1,1 @@
+web: gunicorn le_bateau_porate_project.wsgi
