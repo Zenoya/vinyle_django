@@ -1,6 +1,6 @@
 # vinyle_django
 
-Dite fictif réalisé en django - python 
+Site fictif réalisé en django - python 
 BDD : Postgresql
 design et responsive : Bootstrap
 
